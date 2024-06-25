@@ -131,7 +131,7 @@ Notes:
 - Tanky things easier and safer to guarantee 2 circle kill
 - Maintain positive altitude gain
 
-##### I LOVE P47 - mochi
+##### I LOVE P47 - Mochi
 
 #### A7M2 Reppū
 Notes:
@@ -158,29 +158,29 @@ Notes: Fly like p47
 
 
 ## TOURNAMMENT WORLD LINKS
-### f-14d
+### F-14D
 https://vrchat.com/home/world/wrld_118ce841-70ba-4c4e-94fa-1dd4d3da775e
-hellcat
+### Hellcat
 https://vrchat.com/home/world/wrld_8e4d0202-d957-4c84-9543-4143facc5794
-### mig29
+### Mig29
 https://vrchat.com/home/world/wrld_a983a7a0-187c-4dfb-93f2-0a74bb8be80a
-### f/a-18f 2v2
+### F/A-18F 2v2
 https://vrchat.com/home/world/wrld_fff7fd6c-d5fe-478b-b687-b2516a4ce57b
-### a-10
+### A-10
 https://vrchat.com/home/world/wrld_92546972-192a-4880-b16c-a302fa6c2ffc
-### f/a-18f 1v1
+### F/A-18F 1v1
 https://vrchat.com/home/world/wrld_46120bf3-7266-418e-8868-5523de654089
-### gripen
+### Gripen
 https://vrchat.com/home/world/wrld_f432ba21-8fb2-43f7-89ee-6aeff1a3d2a9
-### sf-1
+### SF-1
 https://vrchat.com/home/world/wrld_801dae99-3d17-49e5-b277-6edd406e529b
 ### Ajs-37 viggen
 https://vrchat.com/home/world/wrld_8b7ff987-efb4-4021-b24e-f8108518d91f
-### p-47d
+### P-47D
 https://vrchat.com/home/world/wrld_04e8262e-4775-4883-b7fd-b09b2599084e
 ### Eurofighter
 https://vrchat.com/home/world/wrld_30207eb8-e66a-419e-85a2-509f301accad
-### Sbd
+### SBD
 https://vrchat.com/home/world/wrld_d0c1e8f6-60b0-451b-bfd1-ea9da33ee23b
 ### Sak-1 1v1
 https://vrchat.com/home/world/wrld_c89ac590-c7d0-4c01-ac64-6367c66c4385
@@ -193,6 +193,6 @@ https://vrchat.com/home/world/wrld_e632b0b7-9999-48ec-98d0-60407d0dacf5
 
 ### Viggen
 
-### f-14a
+### f-14A
 
 ### F-15

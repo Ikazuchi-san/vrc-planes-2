@@ -1,10 +1,7 @@
 # VRC FLY
 
 
-
-
-
-
+![Da Mochi](https://github.com/Ikazuchi-san/vrc-planes-2/blob/main/glitched_mochi.gif "Da Mochi")
 
 
 
